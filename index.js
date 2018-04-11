@@ -1,5 +1,7 @@
-const numeroExtenso = require('./numeroExtenso')
+const numeroExtenso = require('./numeros/numeroExtenso')
+const data = require('./datas/datas')
 
 module.exports = {
-    numeroExtenso
+    numeroExtenso,
+    data
 }

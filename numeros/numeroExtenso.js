@@ -88,6 +88,7 @@ function extensoTag(partes, ...valores){
 	return resultado.join("")
 }
 
+
 module.exports = {
 	formataPorExtenso,
 	extensoTag
