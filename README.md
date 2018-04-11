@@ -7,7 +7,7 @@ O projeto Corvo é focado da internacionalização de tokens para o idioma nativ
 
 Como utilizá-lo
 
-- Formatando número para extendo
+- Formatando número para extenso
 ```
     const corvo = require('corvo')
 

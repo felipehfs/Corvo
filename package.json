@@ -3,14 +3,22 @@
   "version": "1.0.0",
   "description": "Um projeto de internacionalização em pt-br",
   "main": "index.js",
+  "readme": "README.md",
   "scripts": {
     "test": "mocha test"
   },
   "keywords": [
-    "formatação"
+    "formatação",
+    "data",
+    "numero",
+    "pt-br"
   ],
   "author": "Felipe Henrique",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipehfs/Corvo.git"
+  },
   "devDependencies": {
     "mocha": "^5.0.5"
   }
