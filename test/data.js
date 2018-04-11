@@ -2,6 +2,7 @@ const data = require('../datas/datas')
 const assert = require('assert')
 
 describe('data', function(){
+    
     describe("#brShortFormat()", () => {
         it("Deve retornar uma string da data em um formato curto", function () {
             let d = new Date()
