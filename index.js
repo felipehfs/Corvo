@@ -5,5 +5,3 @@ module.exports = {
     data,
     numero
 }
-
-assert(data.longlongFormat(new Date()) === "onze de abril de 2018", "Erro no longlongFormat");
