@@ -1,6 +1,6 @@
 {
   "name": "corvo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Um projeto de internacionalização em pt-br",
   "main": "index.js",
   "readme": "README.md",
